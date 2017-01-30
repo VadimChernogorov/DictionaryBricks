@@ -1,6 +1,10 @@
 # DictionaryBricks
 Homework dictionary
 VV Code start VV
+
+
+
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
